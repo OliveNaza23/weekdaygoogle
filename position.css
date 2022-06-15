@@ -1,0 +1,26 @@
+/* .position{
+    background-color: paleturquoise;
+    width: 200px;
+    height: 200px;
+} */
+/* img{
+    width: 60px;
+    position: relative;
+    bottom: 20px;
+}
+better still */
+.position{
+    background-color: rgb(134, 89, 21);
+    width:200px;
+    height:200px ;
+    position: relative;
+}
+img{
+    width: 60px;
+    position: absolute;
+    bottom: 65%;
+}
+.image_1{
+    position: fixed;
+    left: 20%;
+}

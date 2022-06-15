@@ -1,0 +1,29 @@
+.flexdiv{
+    background-color: blanchedalmond;
+    height: 400px;
+    display: grid;
+    grid-template-columns: ;
+    grid-template-rows: ;
+
+}
+p{
+    width: 15%;
+    height: 15%;
+}
+.firstclass{
+    background-color: blueviolet;
+}
+.secondclass{
+    background-color: aquamarine;
+}
+.thirdclass{
+    background-color: brown;
+}
+.fourthclass{
+    background-color: grey;
+
+}
+.fifthclass{
+    background-color: blue;
+}
+    

@@ -1,0 +1,30 @@
+/* all rules outside of @media queries apply to devices 1201px and above */
+@media (max-width: 2560px) {
+    body{
+        background-color: rgb(253, 255, 127);
+    }
+    /* rules here apply to devices from 993px to 1200px (inclusive) */}
+
+@media (max-width: 1200px) {
+    body{
+        background-color: aquamarine;
+    }
+    /* rules here apply to devices from 993px to 1200px (inclusive) */}
+@media (max-width: 992px) {	
+    body{
+        background-color: blueviolet;
+    }
+    /* rules here apply to devices from 769px to 992px (inclusive) */}
+@media (max-width: 768px) {
+    body{
+        background-color: plum;
+    }
+    /* rules here apply to devices from 0px or 425px to 768px (inclusive) */}
+
+    
+/* You may also apply this: */
+@media (max-width: 425px) {
+    body{
+        background-color: yellowgreen;
+    }
+    /* rules here apply to devices from 0px to 425px (inclusive) */}
